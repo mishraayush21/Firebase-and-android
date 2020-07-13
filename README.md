@@ -1,2 +1,2 @@
 # Firebase-and-android
-Application of firebase with android.
+Application of firebase on android.
